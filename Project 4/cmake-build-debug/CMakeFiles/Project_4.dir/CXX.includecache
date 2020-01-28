@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/max/Desktop/CS 124/Project 4/City.cpp
+City.h
+/Users/max/Desktop/CS 124/Project 4/City.h
+
+/Users/max/Desktop/CS 124/Project 4/City.h
+iomanip
+-
+fstream
+-
+vector
+-
+iostream
+-
+cstdlib
+-
+
+/Users/max/Desktop/CS 124/Project 4/main.cpp
+iostream
+-
+vector
+-
+City.h
+/Users/max/Desktop/CS 124/Project 4/City.h
+
