@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/Project_2.dir/main.cpp.o CMakeFiles/Project_2.dir/City.cpp.o  -o Project_2 
