@@ -1,0 +1,56 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/max/Desktop/CS 124/Project 3/AvlTree.h
+dsexceptions.h
+/Users/max/Desktop/CS 124/Project 3/dsexceptions.h
+algorithm
+-
+iostream
+-
+
+/Users/max/Desktop/CS 124/Project 3/BinarySearchTree.h
+dsexceptions.h
+/Users/max/Desktop/CS 124/Project 3/dsexceptions.h
+algorithm
+-
+
+/Users/max/Desktop/CS 124/Project 3/City.cpp
+City.h
+/Users/max/Desktop/CS 124/Project 3/City.h
+
+/Users/max/Desktop/CS 124/Project 3/City.h
+iomanip
+-
+fstream
+-
+vector
+-
+iostream
+-
+cstdlib
+-
+
+/Users/max/Desktop/CS 124/Project 3/SplayTree.h
+dsexceptions.h
+/Users/max/Desktop/CS 124/Project 3/dsexceptions.h
+iostream
+-
+
+/Users/max/Desktop/CS 124/Project 3/dsexceptions.h
+
+/Users/max/Desktop/CS 124/Project 3/main.cpp
+City.h
+/Users/max/Desktop/CS 124/Project 3/City.h
+BinarySearchTree.h
+/Users/max/Desktop/CS 124/Project 3/BinarySearchTree.h
+SplayTree.h
+/Users/max/Desktop/CS 124/Project 3/SplayTree.h
+AvlTree.h
+/Users/max/Desktop/CS 124/Project 3/AvlTree.h
+
